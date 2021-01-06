@@ -1,0 +1,11 @@
+{
+  "name": "02-testing-with-mocha",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Milan Janecek",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.1"
+  }
+}
